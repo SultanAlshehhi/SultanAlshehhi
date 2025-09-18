@@ -6,11 +6,12 @@ I enjoy working on projects where **AI, hardware, and sustainability** intersect
 ---
 
 ## 🏆 Achievements & Projects
-- 🥇 **GreenCart** — Sustainable shopping app | *1st Place, Smart Mobile App Contest 2024*  
-- 🥉 **WasteWatt** — Food waste → clean energy | *3rd Place, Green Campus Competition 2024*  
 - 🥇 **Baian** — AI-powered Arabic learning app | *1st Place, Youth Innovation Awards 2025*  
-- 🧠 **Speech Synthesis from EEG Signals** — Built ML models for converting brain activity into speech  
-- ⚡ **Hardware Accelerator for Post-Quantum Cryptography** — Designed and optimized NTT & FFT for FALCON signatures  
+- 🥇 **GreenCart** — Sustainable shopping app | *1st Place, Smart Mobile App Contest 2024*  
+- 🥉 **WasteWatt** — Food waste → clean energy | *3rd Place, Green Campus Competition 2024*
+  
+- 🧠 **Speech Synthesis from EEG Signals** —Research and studies ML approches for converting brain activity into speech  
+- ⚡ **Hardware Accelerator for Post-Quantum Cryptography** — Designed and optimized NTT & FFT for FALCON Algorithm  
 
 ---
 
@@ -24,8 +25,7 @@ I enjoy working on projects where **AI, hardware, and sustainability** intersect
 
 ## 🔭 Now
 - Pursuing my **Master’s in Machine Learning** at MBZUAI  
-- Researching advanced **EEG-based AI models** and **efficient ML architectures**  
-- Exploring how **AI + hardware** can be combined for real-world impact  
+
 
 ---
 
