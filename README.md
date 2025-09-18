@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hey 👋, I’m Sultan
 
-<!--
-**SultanAlshehhi/SultanAlshehhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Computer Engineer** and current **Master’s in Machine Learning student at MBZUAI**.  
+I enjoy working on projects where **AI, hardware, and sustainability** intersect — building solutions that move beyond theory into impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Achievements & Projects
+- 🥇 **GreenCart** — Sustainable shopping app | *1st Place, Smart Mobile App Contest 2024*  
+- 🥉 **WasteWatt** — Food waste → clean energy | *3rd Place, Green Campus Competition 2024*  
+- 🥇 **Baian** — AI-powered Arabic learning app | *1st Place, Youth Innovation Awards 2025*  
+- 🧠 **Speech Synthesis from EEG Signals** — Built ML models for converting brain activity into speech  
+- ⚡ **Hardware Accelerator for Post-Quantum Cryptography** — Designed and optimized NTT & FFT for FALCON signatures  
+
+---
+
+## 💼 Industry Experience
+- **Machine Learning & AI Intern — e& (May–August 2024)**  
+  - Worked on applied AI/ML solutions  
+  - Gained hands-on experience in deploying models and optimizing workflows  
+  - Strengthened practical expertise bridging research with industry applications  
+
+---
+
+## 🔭 Now
+- Pursuing my **Master’s in Machine Learning** at MBZUAI  
+- Researching advanced **EEG-based AI models** and **efficient ML architectures**  
+- Exploring how **AI + hardware** can be combined for real-world impact  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, C++, Verilog, JavaScript  
+- **Frameworks & Tools:** PyTorch, TensorFlow, React, Node.js  
+- **Focus Areas:** AI/ML (EEG, NLP, CV), Hardware Acceleration, Sustainable Tech  
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
+
+---
+
+## ✨ What Drives Me
+- Turning ambitious research into practical solutions  
+- Building projects that combine **innovation + purpose**  
+- Believing that technology should **empower people, not just impress them**  
+
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
