@@ -1,4 +1,4 @@
-# Hey 👋, I’m Sultan
+# Salam 👋, I’m Sultan
 
 I’m a **Computer Engineer** and current **Master’s in Machine Learning student at MBZUAI**.  
 I enjoy working on projects where **AI, hardware, and sustainability** intersect — building solutions that move beyond theory into impact.
