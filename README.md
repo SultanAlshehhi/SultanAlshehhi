@@ -32,15 +32,8 @@ I enjoy working on projects where **AI, hardware, and sustainability** intersect
 ## 🛠️ Tech Stack
 - **Languages:** Python, C++, Verilog, JavaScript  
 - **Frameworks & Tools:** PyTorch, TensorFlow, React, Node.js  
-- **Focus Areas:** AI/ML (EEG, NLP, CV), Hardware Acceleration, Sustainable Tech  
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SultanAlshehhi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
+- **Focus Areas:** AI/ML (EEG, NLP, CV), Hardware Acceleration, Sustainable Tech
+- 
 ---
 
 ## ✨ What Drives Me
