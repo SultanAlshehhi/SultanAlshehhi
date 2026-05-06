@@ -15,11 +15,11 @@
 
 I am a UAE-based engineer and builder focused on machine learning, product development, and efficient systems design. My work moves between research and execution: from EEG-based speech synthesis and post-quantum hardware acceleration to AI products for education, speech therapy, and sustainability.
 
-## <img src="./assets/MBZUAI%20logo.svg" alt="MBZUAI" height="18" valign="middle" /> Current Work
+## <img src="./assets/MBZUAI%20logo2.svg" alt="MBZUAI" height="26" valign="middle" /> Current Work
 
 Machine Learning student at `MBZUAI`, where I also serve as a `Student Ambassador`, with current time split across research, applied AI work, and `Notch`.
 
-## <img src="./assets/KU%20logo.svg" alt="Khalifa University" height="18" valign="middle" /> Education
+## <img src="./assets/KU%20logo2.svg" alt="Khalifa University" height="26" valign="middle" /> Education
 
 `BSc in Computer Engineering` from `Khalifa University`, graduating with highest honors and a strong foundation in machine learning, systems, security, and embedded computing.
 
@@ -37,7 +37,7 @@ Research project and conference publication on reconstructing speech from neural
 ### Post-Quantum Cryptography Accelerator
 Configurable hardware accelerator for `NTT` and `FFT` operations in the `FALCON` algorithm, with a focus on performance and hardware efficiency.
 
-## <img src="./assets/Socia%20logo.svg" alt="Socia" height="18" valign="middle" /> Building
+## <img src="./assets/Socia%20logo2.svg" alt="Socia" height="26" valign="middle" /> Building
 
 ### Socia
 Co-Founder and Product Architecture Lead, helping grow a student-led hackathon ecosystem across universities in the UAE.
