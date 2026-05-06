@@ -50,11 +50,11 @@ Configurable hardware accelerator for `NTT` and `FFT` operations in the `FALCON`
 
 ## <img src="https://api.iconify.design/lucide:award.svg?color=%23888888" width="24" valign="middle" /> Highlights
 
-- <span style="color: #EAB308; font-weight: bold;">First Place, ACI Congress Innovation Award 2025</span>
-- <span style="color: #EAB308; font-weight: bold;">First Place, Smart Application Contest 2024</span>
-- <span style="color: #EAB308; font-weight: bold;">Third Place, Green Campus Competition 2024</span>
-- <span style="color: #EAB308; font-weight: bold;">President's List for Academic Excellence</span> at `Khalifa University`
-- <span style="color: #EAB308; font-weight: bold;">Student Ambassador</span> at `MBZUAI`
+<img src="https://api.iconify.design/lucide:trophy.svg?color=%23EAB308" width="16" valign="middle" /> **First Place, ACI Congress Innovation Award 2025**  
+<img src="https://api.iconify.design/lucide:trophy.svg?color=%23EAB308" width="16" valign="middle" /> **First Place, Smart Application Contest 2024**  
+<img src="https://api.iconify.design/lucide:medal.svg?color=%23EAB308" width="16" valign="middle" /> **Third Place, Green Campus Competition 2024**  
+<img src="https://api.iconify.design/lucide:star.svg?color=%23EAB308" width="16" valign="middle" /> **President's List for Academic Excellence** at `Khalifa University`  
+<img src="https://api.iconify.design/lucide:sparkles.svg?color=%23EAB308" width="16" valign="middle" /> **Student Ambassador** at `MBZUAI`  
 
 ---
 
