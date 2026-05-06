@@ -4,11 +4,7 @@
     Building at the intersection of AI, systems, and real-world products.
   </p>
   <p>
-    <img src="./assets/MBZUAI%20logo.svg" alt="MBZUAI" height="16" valign="middle" /> MSc in Machine Learning Student at MBZUAI
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <img src="./assets/KU%20logo.svg" alt="Khalifa University" height="16" valign="middle" /> Computer Engineer from Khalifa University
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <img src="./assets/Socia%20logo.svg" alt="Socia" height="16" valign="middle" /> Co-Founder at Socia
+    MSc in Machine Learning · Computer Engineering · Founder-led product building
   </p>
   <p>
     <sub>AI · SYSTEMS · PRODUCT</sub>
@@ -19,7 +15,13 @@
 
 I am a UAE-based engineer and builder focused on machine learning, product development, and efficient systems design. My work moves between research and execution: from EEG-based speech synthesis and post-quantum hardware acceleration to AI products for education, speech therapy, and sustainability.
 
-Right now, I am working as a <img src="./assets/MBZUAI%20logo.svg" alt="MBZUAI" height="15" valign="middle" /> `Machine Learning` student and `Student Ambassador` at `MBZUAI`, building with <img src="./assets/Socia%20logo.svg" alt="Socia" height="15" valign="middle" /> `Socia`, and spending time on `Notch`.
+## <img src="./assets/MBZUAI%20logo.svg" alt="MBZUAI" height="18" valign="middle" /> Current Work
+
+Machine Learning student at `MBZUAI`, where I also serve as a `Student Ambassador`, with current time split across research, applied AI work, and `Notch`.
+
+## <img src="./assets/KU%20logo.svg" alt="Khalifa University" height="18" valign="middle" /> Education
+
+`BSc in Computer Engineering` from `Khalifa University`, graduating with highest honors and a strong foundation in machine learning, systems, security, and embedded computing.
 
 ## Selected Work
 
@@ -35,9 +37,9 @@ Research project and conference publication on reconstructing speech from neural
 ### Post-Quantum Cryptography Accelerator
 Configurable hardware accelerator for `NTT` and `FFT` operations in the `FALCON` algorithm, with a focus on performance and hardware efficiency.
 
-## Experience
+## <img src="./assets/Socia%20logo.svg" alt="Socia" height="18" valign="middle" /> Building
 
-### <img src="./assets/Socia%20logo.svg" alt="Socia" height="18" valign="middle" /> Socia
+### Socia
 Co-Founder and Product Architecture Lead, helping grow a student-led hackathon ecosystem across universities in the UAE.
 
 ### e&
@@ -48,8 +50,8 @@ Worked on AI cognitive solutions and enterprise-oriented ML system integration f
 - First Place, `ACI Congress Innovation Award 2025`
 - First Place, `Smart Application Contest 2024`
 - Third Place, `Green Campus Competition 2024`
-- President's List for Academic Excellence at <img src="./assets/KU%20logo.svg" alt="Khalifa University" height="14" valign="middle" /> `Khalifa University`
-- <img src="./assets/MBZUAI%20logo.svg" alt="MBZUAI" height="14" valign="middle" /> `Student Ambassador` at `MBZUAI`
+- President's List for Academic Excellence at `Khalifa University`
+- `Student Ambassador` at `MBZUAI`
 
 ## Stack
 
