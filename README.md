@@ -1,66 +1,73 @@
 <div align="center">
   <h1>Sultan M. Alshehhi</h1>
-  <p>
-    Building at the intersection of AI, systems, and real-world products.
-  </p>
-  <p>
-    MSc in Machine Learning · Computer Engineering · Founder-led product building
-  </p>
-  <p>
-    <sub>AI · SYSTEMS · PRODUCT</sub>
-  </p>
+  <p><em>Building at the intersection of AI, systems, and real-world products.</em></p>
+  <p>MSc in Machine Learning • Computer Engineering • Founder-led product building</p>
+  <p><code>AI</code> ✦ <code>SYSTEMS</code> ✦ <code>PRODUCT</code></p>
 </div>
 
-## About
+<br>
+
+## <img src="https://api.iconify.design/lucide:user.svg?color=%23888888" width="24" valign="middle" /> About
 
 I am a UAE-based engineer and builder focused on machine learning, product development, and efficient systems design. My work moves between research and execution: from EEG-based speech synthesis and post-quantum hardware acceleration to AI products for education, speech therapy, and sustainability.
 
-## <img src="./assets/MBZUAI%20logo2.svg" alt="MBZUAI" height="26" valign="middle" /> Current Work
+---
 
-Machine Learning student at `MBZUAI`, where I also serve as a `Student Ambassador`, with current time split across research, applied AI work, and `Notch`.
+## <img src="https://api.iconify.design/lucide:book-open.svg?color=%23888888" width="24" valign="middle" /> Current Work & Education
 
-## <img src="./assets/KU%20logo2.svg" alt="Khalifa University" height="26" valign="middle" /> Education
+* <img src="./assets/MBZUAI%20logo2.svg" alt="MBZUAI" height="20" valign="middle" /> **Machine Learning Student** at `MBZUAI`  
+  Serving as a `Student Ambassador`, with my time currently split across research, applied AI work, and `Notch`.
+* <img src="./assets/KU%20logo2.svg" alt="Khalifa University" height="20" valign="middle" /> **BSc in Computer Engineering** from `Khalifa University`  
+  Graduated with highest honors, building a strong foundation in machine learning, systems, security, and embedded computing.
 
-`BSc in Computer Engineering` from `Khalifa University`, graduating with highest honors and a strong foundation in machine learning, systems, security, and embedded computing.
+---
 
-## Selected Work
+## <img src="https://api.iconify.design/lucide:folder-dot.svg?color=%23888888" width="24" valign="middle" /> Selected Work
 
-### Nabra
+**Nabra**  
 AI-powered speech therapy platform with dedicated clinician and patient experiences, built with `TypeScript`, `Python`, `React`, and `ElevenLabs`.
 
-### Baian
+**Baian**  
 Emarati Arabic AI tutor designed to make dialect learning more interactive through conversational AI, speech feedback, and pronunciation support.
 
-### EEG-Based Speech Synthesis
+**EEG-Based Speech Synthesis**  
 Research project and conference publication on reconstructing speech from neural activity using machine learning techniques.
 
-### Post-Quantum Cryptography Accelerator
+**Post-Quantum Cryptography Accelerator**  
 Configurable hardware accelerator for `NTT` and `FFT` operations in the `FALCON` algorithm, with a focus on performance and hardware efficiency.
 
-## <img src="./assets/Socia%20logo2.svg" alt="Socia" height="26" valign="middle" /> Building
+---
 
-### Socia
-Co-Founder and Product Architecture Lead, helping grow a student-led hackathon ecosystem across universities in the UAE.
+## <img src="https://api.iconify.design/lucide:hammer.svg?color=%23888888" width="24" valign="middle" /> Building
 
-### e&
-Worked on AI cognitive solutions and enterprise-oriented ML system integration for real-world deployment.
+* <img src="./assets/Socia%20logo2.svg" alt="Socia" height="18" valign="middle" /> **Socia** — *Co-Founder & Product Architecture Lead*  
+  Helping grow a student-led hackathon ecosystem across universities in the UAE.
 
-## Highlights
+* **e&**  
+  Worked on AI cognitive solutions and enterprise-oriented ML system integration for real-world deployment.
 
-- First Place, `ACI Congress Innovation Award 2025`
-- First Place, `Smart Application Contest 2024`
-- Third Place, `Green Campus Competition 2024`
-- President's List for Academic Excellence at `Khalifa University`
-- `Student Ambassador` at `MBZUAI`
+---
 
-## Stack
+## <img src="https://api.iconify.design/lucide:award.svg?color=%23888888" width="24" valign="middle" /> Highlights
 
-`Python` `C/C++` `JavaScript` `TypeScript` `Dart` `PyTorch` `TensorFlow` `Transformers` `React` `React Native` `Flask` `Docker` `Azure`
+- <span style="color: #EAB308; font-weight: bold;">First Place, ACI Congress Innovation Award 2025</span>
+- <span style="color: #EAB308; font-weight: bold;">First Place, Smart Application Contest 2024</span>
+- <span style="color: #EAB308; font-weight: bold;">Third Place, Green Campus Competition 2024</span>
+- <span style="color: #EAB308; font-weight: bold;">President's List for Academic Excellence</span> at `Khalifa University`
+- <span style="color: #EAB308; font-weight: bold;">Student Ambassador</span> at `MBZUAI`
 
-## Connect
+---
 
-<p>
-  <a href="mailto:sultan.15lt@gmail.com">Email</a> /
-  <a href="https://www.linkedin.com/in/sultan-m-alshehhi/">LinkedIn</a> /
-  <a href="https://github.com/SultanAlshehhi">GitHub</a>
-</p>
+## <img src="https://api.iconify.design/lucide:layers.svg?color=%23888888" width="24" valign="middle" /> Stack
+
+`Python` • `C/C++` • `JavaScript` • `TypeScript` • `Dart` • `PyTorch` • `TensorFlow` • `Transformers` • `React` • `React Native` • `Flask` • `Docker` • `Azure`
+
+---
+
+<div align="center">
+  <p>
+    <img src="https://api.iconify.design/lucide:mail.svg?color=%23888888" width="16" valign="middle" /> <a href="mailto:sultan.15lt@gmail.com">Email</a> &nbsp;|&nbsp;
+    <img src="https://api.iconify.design/lucide:linkedin.svg?color=%23888888" width="16" valign="middle" /> <a href="https://www.linkedin.com/in/sultan-m-alshehhi/">LinkedIn</a> &nbsp;|&nbsp;
+    <img src="https://api.iconify.design/lucide:github.svg?color=%23888888" width="16" valign="middle" /> <a href="https://github.com/SultanAlshehhi">GitHub</a>
+  </p>
+</div>
